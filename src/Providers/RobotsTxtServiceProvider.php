@@ -26,17 +26,7 @@ class RobotsTxtServiceProvider extends ServiceProvider
      * @var bool
      */
     protected $defer = false;
-
-    /**
-     * Bootstrap the application events.
-     *
-     * @return void
-     */
-    public function boot()
-    {
-        $this->package('cog.robots-txt');
-    }
-
+    
     /**
      * Register the service provider.
      *
