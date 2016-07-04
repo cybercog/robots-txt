@@ -1,7 +1,7 @@
 # Robots.txt Generator
 
 [![Build Status](https://travis-ci.org/cybercog/robots-txt.svg)](https://travis-ci.org/cybercog/robots-txt)
-[![StyleCI](https://styleci.io/repos/62556773/shield)](https://styleci.io/repos/62556773)
+[![StyleCI](https://styleci.io/repos/62558361/shield)](https://styleci.io/repos/62558361)
 [![Total Downloads](https://poser.pugx.org/cybercog/robots-txt/d/total.svg)](https://packagist.org/packages/cybercog/robots-txt)
 [![Latest Stable Version](https://poser.pugx.org/cybercog/robots-txt/version)](https://packagist.org/packages/cybercog/robots-txt)
 [![License](https://poser.pugx.org/cybercog/robots-txt/license)](https://github.com/cybercog/robots-txt/blob/master/LICENSE)
